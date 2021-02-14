@@ -1,0 +1,1 @@
+﻿Add BMP files to be recognised in this folder.
